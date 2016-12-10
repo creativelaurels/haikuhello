@@ -5,6 +5,8 @@ haikuhello focuses on the user experience.
 
 
 Technology Used:
+CoffeeScript
+Framer.js
 HTML
 CSS
 Javascript
